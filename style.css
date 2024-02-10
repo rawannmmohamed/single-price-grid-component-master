@@ -28,17 +28,17 @@ body {
 
             h3 {
                 font-weight: 700;
-                color: var(--cyan);
+                color: var(--cyan,#2BB3B1);
             }
 
             h6 {
                 font-weight: 700;
-                color: var(--Yellow);
+                color: var(--Yellow,rgba(189, 189, 16, 0.952));
             }
 
             p {
                 font-weight: 400;
-                color: var(--light-gray);
+                color: var(--light-gray,hsl(207, 6%, 70%));
 
             }
         }
@@ -68,7 +68,7 @@ body {
             }
 
             button {
-                background-color: var(--Yellow);
+                background-color: var(--Yellow,rgba(189, 189, 16, 0.952));
                 color: var(--white);
             }
 
