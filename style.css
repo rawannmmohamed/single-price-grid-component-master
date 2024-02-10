@@ -1,7 +1,7 @@
 :root {
     --cyan: #2BB3B1;
-    --Yellow: hsl(71, 73%, 54%);
-    --white: hsl(0, 0%, 100%);
+    --Yellow: rgba(189, 189, 16, 0.952);
+    --white: white;
     --light-cyan: #4ABEBD;
     --alice-blue: #E6EFF6;
     --light-gray: hsl(207, 6%, 70%);
